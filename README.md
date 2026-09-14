@@ -76,3 +76,15 @@ This repository serves as a record of my daily DSA practice through the Coding C
 
 B.Tech CSE — AI/ML
 SRM University-AP
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/Padmasrikari/CODING-CLUB_DSA/tree/master/0162-find-peak-element) |
+## Binary Search
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/Padmasrikari/CODING-CLUB_DSA/tree/master/0162-find-peak-element) |
+<!---LeetCode Topics End-->
