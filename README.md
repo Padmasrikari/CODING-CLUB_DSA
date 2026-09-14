@@ -20,12 +20,14 @@ The purpose of this repository is to maintain a record of the problems I solve a
 
 ## 📚 Problems Solved
 
-|   # | Problem                                                               | Topic                         |
-| --: | --------------------------------------------------------------------- | ----------------------------- |
-|  15 | [3Sum](0015-3sum)                                                     | Array / Two Pointers          |
-|  18 | [4Sum](0018-4sum)                                                     | Array / Two Pointers          |
-|  33 | [Search in Rotated Sorted Array](0033-search-in-rotated-sorted-array) | Binary Search                 |
-| 493 | [Reverse Pairs](0493-reverse-pairs)                                   | Merge Sort / Divide & Conquer |
+|   # | Problem                                                                                                                 | Topic                         |
+| --: | ----------------------------------------------------------------------------------------------------------------------- | ----------------------------- |
+|  15 | [3Sum](0015-3sum)                                                                                                       | Array / Two Pointers          |
+|  18 | [4Sum](0018-4sum)                                                                                                       | Array / Two Pointers          |
+|  33 | [Search in Rotated Sorted Array](0033-search-in-rotated-sorted-array)                                                   | Binary Search                 |
+|  34 | [Find First and Last Position of Element in Sorted Array](0034-find-first-and-last-position-of-element-in-sorted-array) | Binary Search                 |
+| 162 | [Find Peak Element](0162-find-peak-element)                                                                             | Binary Search                 |
+| 493 | [Reverse Pairs](0493-reverse-pairs)                                                                                     | Merge Sort / Divide & Conquer |
 
 ---
 
@@ -48,7 +50,7 @@ More topics will be added as the daily DSA practice continues.
 
 ## 📈 Progress
 
-**Problems Solved: 4+**
+**Problems Solved: 6+**
 
 This repository will be updated regularly with new solutions as the Coding Club assigns daily problems.
 
@@ -78,15 +80,21 @@ B.Tech CSE — AI/ML
 SRM University-AP
 
 <!---LeetCode Topics Start-->
+
 # LeetCode Topics
+
 ## Array
-|  |
-| ------- |
+
+|                                                                                                                                                                                          |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Padmasrikari/CODING-CLUB_DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
-| [0162-find-peak-element](https://github.com/Padmasrikari/CODING-CLUB_DSA/tree/master/0162-find-peak-element) |
+| [0162-find-peak-element](https://github.com/Padmasrikari/CODING-CLUB_DSA/tree/master/0162-find-peak-element)                                                                             |
+
 ## Binary Search
-|  |
-| ------- |
+
+|                                                                                                                                                                                          |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Padmasrikari/CODING-CLUB_DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
-| [0162-find-peak-element](https://github.com/Padmasrikari/CODING-CLUB_DSA/tree/master/0162-find-peak-element) |
+| [0162-find-peak-element](https://github.com/Padmasrikari/CODING-CLUB_DSA/tree/master/0162-find-peak-element)                                                                             |
+
 <!---LeetCode Topics End-->
