@@ -26,6 +26,7 @@ The purpose of this repository is to maintain a record of the problems I solve a
 |  18 | [4Sum](0018-4sum)                                                                                                       | Array / Two Pointers          |
 |  33 | [Search in Rotated Sorted Array](0033-search-in-rotated-sorted-array)                                                   | Binary Search                 |
 |  34 | [Find First and Last Position of Element in Sorted Array](0034-find-first-and-last-position-of-element-in-sorted-array) | Binary Search                 |
+|  81 | [Search in Rotated Sorted Array II](0081-search-in-rotated-sorted-array-ii)                                             | Binary Search                 |
 | 162 | [Find Peak Element](0162-find-peak-element)                                                                             | Binary Search                 |
 | 493 | [Reverse Pairs](0493-reverse-pairs)                                                                                     | Merge Sort / Divide & Conquer |
 
@@ -48,9 +49,9 @@ More topics will be added as the daily DSA practice continues.
 
 ---
 
-## 📈 Progress
+## 📈 Completes
 
-**Problems Solved: 6+**
+**Problems Solved: 7+**
 
 This repository will be updated regularly with new solutions as the Coding Club assigns daily problems.
 
@@ -76,7 +77,7 @@ This repository serves as a record of my daily DSA practice through the Coding C
 
 **Padmasrikari Davu**
 
-B.Tech CSE — AI/ML
+B.Tech CSE — AI/ML  
 SRM University-AP
 
 <!---LeetCode Topics Start-->
