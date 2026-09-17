@@ -28,9 +28,11 @@ The purpose of this repository is to maintain a record of the problems I solve a
 |  34 | [Find First and Last Position of Element in Sorted Array](0034-find-first-and-last-position-of-element-in-sorted-array) | Binary Search                 |
 |  81 | [Search in Rotated Sorted Array II](0081-search-in-rotated-sorted-array-ii)                                             | Binary Search                 |
 | 152 | [Maximum Product Subarray](0152-maximum-product-subarray)                                                               | Array / Dynamic Programming   |
+| 153 | [Find Minimum in Rotated Sorted Array](0153-find-minimum-in-rotated-sorted-array)                                       | Binary Search                 |
 | 162 | [Find Peak Element](0162-find-peak-element)                                                                             | Binary Search                 |
 | 493 | [Reverse Pairs](0493-reverse-pairs)                                                                                     | Merge Sort / Divide & Conquer |
 | 560 | [Subarray Sum Equals K](0560-subarray-sum-equals-k)                                                                      | Array / Prefix Sum / Hash Map |
+| 875 | [Koko Eating Bananas](0875-koko-eating-bananas)                                                                         | Binary Search                 |
 
 ---
 
@@ -52,7 +54,7 @@ More topics will be added as the daily DSA practice continues.
 
 ## 📈 Completes
 
-**Problems Solved: 9**
+**Problems Solved: 11**
 
 This repository will be updated regularly with new solutions as the Coding Club assigns daily problems.
 
@@ -95,9 +97,11 @@ SRM University-AP
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Padmasrikari/CODING-CLUB_DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Padmasrikari/CODING-CLUB_DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0152-maximum-product-subarray](https://github.com/Padmasrikari/CODING-CLUB_DSA/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Padmasrikari/CODING-CLUB_DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Padmasrikari/CODING-CLUB_DSA/tree/master/0162-find-peak-element) |
 | [0493-reverse-pairs](https://github.com/Padmasrikari/CODING-CLUB_DSA/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/Padmasrikari/CODING-CLUB_DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0875-koko-eating-bananas](https://github.com/Padmasrikari/CODING-CLUB_DSA/tree/master/0875-koko-eating-bananas) |
 
 ## Binary Search
 
@@ -106,7 +110,9 @@ SRM University-AP
 | [0033-search-in-rotated-sorted-array](https://github.com/Padmasrikari/CODING-CLUB_DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Padmasrikari/CODING-CLUB_DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Padmasrikari/CODING-CLUB_DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Padmasrikari/CODING-CLUB_DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Padmasrikari/CODING-CLUB_DSA/tree/master/0162-find-peak-element) |
+| [0875-koko-eating-bananas](https://github.com/Padmasrikari/CODING-CLUB_DSA/tree/master/0875-koko-eating-bananas) |
 
 ## Divide and Conquer
 
