@@ -33,6 +33,8 @@ The purpose of this repository is to maintain a record of the problems I solve a
 | 493 | [Reverse Pairs](0493-reverse-pairs)                                                                                     | Merge Sort / Divide & Conquer |
 | 560 | [Subarray Sum Equals K](0560-subarray-sum-equals-k)                                                                      | Array / Prefix Sum / Hash Map |
 | 875 | [Koko Eating Bananas](0875-koko-eating-bananas)                                                                         | Binary Search                 |
+| 1283 | [Find the Smallest Divisor Given a Threshold](1283-find-the-smallest-divisor-given-a-threshold)                         | Binary Search                 |
+| 1482 | [Minimum Number of Days to Make m Bouquets](1482-minimum-number-of-days-to-make-m-bouquets)                             | Binary Search                 |
 
 ---
 
@@ -54,7 +56,7 @@ More topics will be added as the daily DSA practice continues.
 
 ## 📈 Completes
 
-**Problems Solved: 11**
+**Problems Solved: 13**
 
 This repository will be updated regularly with new solutions as the Coding Club assigns daily problems.
 
@@ -102,6 +104,8 @@ SRM University-AP
 | [0493-reverse-pairs](https://github.com/Padmasrikari/CODING-CLUB_DSA/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/Padmasrikari/CODING-CLUB_DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0875-koko-eating-bananas](https://github.com/Padmasrikari/CODING-CLUB_DSA/tree/master/0875-koko-eating-bananas) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Padmasrikari/CODING-CLUB_DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Padmasrikari/CODING-CLUB_DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 
 ## Binary Search
 
@@ -113,6 +117,8 @@ SRM University-AP
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Padmasrikari/CODING-CLUB_DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Padmasrikari/CODING-CLUB_DSA/tree/master/0162-find-peak-element) |
 | [0875-koko-eating-bananas](https://github.com/Padmasrikari/CODING-CLUB_DSA/tree/master/0875-koko-eating-bananas) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Padmasrikari/CODING-CLUB_DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Padmasrikari/CODING-CLUB_DSA/tree/master/1482-minimum-number-of-days-to-m-bouquets) |
 
 ## Divide and Conquer
 
